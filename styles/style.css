@@ -10,6 +10,16 @@
     --border-radius: 12px;
 }
 
+body{
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-size: 16px;
+     line-height: 1.5;
+     color: var(--text-color);
+     margin: 0;
+     padding: var(--margin);
+}
+
+
 
 h1 {font-size: larger;
     font-style: italic;
