@@ -99,4 +99,28 @@ header {
     background-color: var(--highlight-color);
  }
 
+ th, td {
+    padding: var(--padding);
+    border: 1px solid var(--accent-color);
+    text-align: left;
+ }
+
+ th {
+    background-color: var(--primary-color);
+    color: white;
+ }
+
+ tr:nth-child(even) {
+    background-color: var(--secondary-color);
+ }
+
+ /* ID and Class Selectors */
+ #about, #breeds, #facts, #contact {
+    padding: var(--padding);
+    background-color: var(--highlight-color);
+    border-radius: var(--border-radius);
+    margin-bottom: var(--margin);
+ }
+
  
+
