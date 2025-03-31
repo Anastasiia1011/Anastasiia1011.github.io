@@ -33,9 +33,17 @@ h2.title {
 }
 
 #main {
- background-color: blueviolet;  
+ background-color: var(--highlight-color);  
  width: 300px; 
  height: 200px;
  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
  font-size: small;
 }
+
+header {
+    background-color: var(--primary-color);
+    color: white;
+    padding: var(--padding);
+    text-align: center;
+    margin-bottom: var(--margin);
+ }
