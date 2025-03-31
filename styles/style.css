@@ -74,3 +74,29 @@ header {
     border-radius: var(--border-radius);
     box-shadow: 0 2px 4px rgba (0, 0, 0, 1);
  }
+
+ /* Responsive Flexbox */
+ .flexbox-element {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: var(--margin);
+ }
+
+ /* Image Styling */
+ img {
+    max-width: 100;
+    height: auto;
+    border-radius: var(--border-radius);
+ }
+
+ /*Table Styling */
+ table {
+    width: 100;
+    border-collapse: collapse;
+    margin: var(--margin) 0;
+    background-color: var(--highlight-color);
+ }
+
+ 
