@@ -21,14 +21,14 @@ body{
 
 
 
-h1 {font-size: larger;
-    font-style: italic;
-    color: pink;
+h1 {font-size: xx-large;
+    font-style: bold;
+    color: rgb(216, 88, 137);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h2.title {
-    font-size: medium;
-    color: blue;
+    font-size: x-large;
+    color: rgb(145, 83, 187);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
