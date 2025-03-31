@@ -2,9 +2,9 @@
 :root{
     --primary-color: #f9c7d4; /*pastel pink*/
     --secondary-color: #fef6f9; /*light pastel pink*/
-    --accent-color: #f2a2b6; /*medium pastel pink*/
+    --accent-color: #c96780; /*medium pastel pink*/
     --text-color: #5f5a6e; /*soft gray*/
-    --highlight-color: #ffd9e8; /*very light pastel pink*/
+    --highlight-color: #dd6a98; /*very light pastel pink*/
     --margin: 16px;
     --padding: 12px;
     --border-radius: 12px;
