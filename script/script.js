@@ -1,6 +1,9 @@
 console.log("Hello World");
+
 //Alert Button
-document.getElementById("alertMe").onclick = function () {alert("Hello world!")};
+document.getElementById("alertMe").onclick = function () {alert("Hello world!");
+
+};
 
 //Hober Button
 const hoverBtn = document.getElementById("hoverButton");
@@ -26,5 +29,5 @@ const container = document.getElementById("container");
 for (let i = 0; i < 5; i++) {
     const para = document.createElement("p");
     para.innerText = "Rabbits are awesome!";
-    container.apppendChild(para);
+    container.appendChild(para);
 }
