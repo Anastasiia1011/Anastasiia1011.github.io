@@ -1,3 +1,4 @@
+console.log("Hello World");
 //Alert Button
 document.getElementById("alertMe").onclick = function () {alert("Hello world!")};
 
